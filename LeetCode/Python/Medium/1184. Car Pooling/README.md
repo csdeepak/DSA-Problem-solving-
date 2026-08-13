@@ -8,8 +8,8 @@
 Array, Sorting, Heap (Priority Queue), Simulation, Prefix Sum
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 12.6 MB
 
 ---
 
