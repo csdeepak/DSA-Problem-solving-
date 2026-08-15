@@ -2,6 +2,7 @@ class Solution(object):
     def maxSubArray(self, nums):
         sum1=0
         max1=0
+        su
         for x in nums:
             sum1+=x
             if sum1<0:
