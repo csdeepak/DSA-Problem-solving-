@@ -4,7 +4,7 @@ class Solution(object):
         max1=0
         least=0
         for x in nums:
-            least=min(sum1,x)
+            least=m(sum1,x)
             sum1+=x
             
             if sum1<least:
